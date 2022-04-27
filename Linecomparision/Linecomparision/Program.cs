@@ -11,7 +11,7 @@
         Console.WriteLine(length);
 int x = 0, y = 0;
 
-
+/*   Q2  */
 Random random = new Random();
 int xaxisCheck = random.Next(0, 2);
 int yaxisCheck = random.Next(0, 2);
@@ -24,7 +24,7 @@ else
 
     Console.WriteLine("false");
 
-
+/*Q3*/
 Console.WriteLine(random);
 if (xaxisCheck > yaxisCheck)
 
