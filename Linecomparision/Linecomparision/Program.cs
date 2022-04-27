@@ -25,6 +25,21 @@ else
     Console.WriteLine("false");
 
 
+Console.WriteLine(random);
+if (xaxisCheck > yaxisCheck)
+
+    Console.WriteLine("Greatest");
+
+else if (yaxisCheck < xaxisCheck)
+
+    Console.WriteLine("Lowest");
+
+else
+
+    Console.WriteLine("Equal");
+
+
+
 
 
 
